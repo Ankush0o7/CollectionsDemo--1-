@@ -16,9 +16,10 @@ The `ListDemo` class showcases various methods to iterate through a `List`.
 for (String item : list) {
     System.out.println(item);
 }
+```
 
 
-This Markdown snippet showcases the Java code within triple backticks, followed by an explanatory comment. You can then proceed with the next section of your README after the comment, continuing with any additional content or sections you'd like to include.
+
 ## Set Demo
 
 ### Purpose
